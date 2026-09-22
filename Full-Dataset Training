@@ -1,0 +1,40 @@
+Experiment ID:
+EXP-M-001
+
+Architecture:
+DeepLabV3 + ResNet50
+
+Status:
+Primary Candidate for Full-Dataset Training
+
+Input:
+Annotated ED Frame
+
+Image Size:
+256 × 256
+
+Train:
+10,109
+
+Validation:
+1,132
+
+Test:
+337 — DO NOT USE FOR TUNING
+
+Targets:
+IVSd
+LVIDd
+LVPWd
+
+Units:
+cm
+
+Optimizer:
+Adam
+
+Initial Learning Rate:
+0.001
+
+Loss:
+Weighted MSE
