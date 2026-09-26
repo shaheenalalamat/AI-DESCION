@@ -1,0 +1,23 @@
+EXP-M-001 Completion Checklist
+
+[ ] Freeze final experiment configuration
+[ ] Record random seed
+[ ] Record exact augmentations
+[ ] Confirm Train / Validation / Test counts
+[ ] Preserve best checkpoint from Epoch 32
+[ ] Run final inference on Test set
+[ ] Calculate MAE_IVSd
+[ ] Calculate MAE_LVIDd
+[ ] Calculate MAE_LVPWd
+[ ] Report all MAEs in cm
+[ ] Convert MAEs to mm for academic comparison
+[ ] Save per-sample predictions CSV
+[ ] Perform error analysis
+[ ] Identify major outliers
+[ ] Prepare GT vs Prediction examples
+[ ] Save Training Loss curve
+[ ] Save Validation Loss curve
+[ ] Document Early Stopping behavior
+[ ] Record software/hardware environment
+[ ] Produce EXP-M-001 final report
+[ ] Update AI_DECISIONS.md
