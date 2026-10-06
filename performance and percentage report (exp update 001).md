@@ -52,4 +52,4 @@ This metric demonstrates the algorithm's learning velocity and stability from th
 
 ---
 **Conclusion:**
-These metrics confirm that the upgraded architecture (EXP-M-002) successfully minimized prediction errors down to fractions of a millimeter. By achieving exceptional precision—exceeding 94% for ventricular chamber sizing—the model establishes itself as a highly robust, clinically viable assistive tool for Echocardiogram measurement and analysis.
+These metrics confirm that the upgraded architecture (EXP-M-001) successfully minimized prediction errors down to fractions of a millimeter. By achieving exceptional precision—exceeding 94% for ventricular chamber sizing—the model establishes itself as a highly robust, clinically viable assistive tool for Echocardiogram measurement and analysis.
