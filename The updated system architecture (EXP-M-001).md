@@ -1,6 +1,6 @@
 # AI Model Discussion: Technical Improvements and Architecture Optimization
 
-The updated system architecture (EXP-M-002) achieved a significant leap in the prediction accuracy of echocardiographic parameters (LVIDd, IVSd, LVPWd) compared to the initial baseline model (EXP-M-001). This substantial improvement is attributed to a series of deep engineering modifications that addressed architectural bottlenecks and optimized training dynamics. These enhancements can be categorized into three main areas:
+The updated system architecture (EXP-M-001) achieved a significant leap in the prediction accuracy of echocardiographic parameters (LVIDd, IVSd, LVPWd) compared to the initial baseline model (EXP-M-001). This substantial improvement is attributed to a series of deep engineering modifications that addressed architectural bottlenecks and optimized training dynamics. These enhancements can be categorized into three main areas:
 
 ## 1. Architecture & Feature Extraction
 * **Bypassing the Architecture Bottleneck:** 
