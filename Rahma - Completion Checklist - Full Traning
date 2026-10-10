@@ -11,13 +11,13 @@ EXP-M-001 Completion Checklist
 [/ ] Calculate MAE_LVPWd
 [/ ] Report all MAEs in cm
 [/ ] Convert MAEs to mm for academic comparison
-[/ ] Save per-sample predictions CSV
-[/ ] Perform error analysis
-[/ ] Identify major outliers
-[/ ] Prepare GT vs Prediction examples
+[ ] Save per-sample predictions CSV
+[ ] Perform error analysis
+[ ] Identify major outliers
+[ ] Prepare GT vs Prediction examples
 [ ] Save Training Loss curve
 [ ] Save Validation Loss curve
 [ ] Document Early Stopping behavior
-[/ ] Record software/hardware environment
+[ ] Record software/hardware environment
 [ ] Produce EXP-M-001 final report
 [ ] Update AI_DECISIONS.md
